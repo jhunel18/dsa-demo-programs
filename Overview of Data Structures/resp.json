@@ -1,0 +1,17 @@
+[
+    {
+        "classCode":"IT-001",
+        "room":"room",
+        "students":[
+            {
+            "studentName":"Jasper",
+            "address":"Unisan, Quezon",
+            "age":"23"
+        },
+        {
+        "studentName":"James",
+            "address":"Malvar, Quezon",
+            "age":"25"
+        }]
+    }
+]
